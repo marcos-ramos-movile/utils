@@ -19,3 +19,5 @@ def getcpf (cpf)
 
    end
 end
+
+puts getcpf(123456789)
